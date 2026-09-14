@@ -9,17 +9,18 @@ redirect_from:
 
 # Md. Mizanur Rahman
 
-Ph.D. Student, Temple University
-Department of Computer & Information Science
-Philadelphia, Pennsylvania, USA
-Email:md.mizanur.rahman@temple.edu
+Ph.D. Student, Temple University <br>
+Department of Computer & Information Science <br>
+1925 N 12th St, Philadelphia, PA 19122 <br>
+Email:rahmamizan1@gmail.com <br>
 
+--- 
 ## Recent News
--**[Aug'26]** Started Ph.D. at Temple University.
--**[Aug'26]** Started teaching as a TA at Temple University.
--**[Aug'25]** Started working as a Lecturer in the Department of Computer Science & Engineering at Dhaka Internationl University.
--**[Aug'25]** Our work on quantum-assisted secure audio communication was accepted in *Engineering Science and Technology, an International Journal*.
--**[Jun'25]**  Graduated from RUET as the first class ninth with honors!.
+-**[Aug'26]** Started Ph.D. at Temple University. <br>
+-**[Aug'26]** Started teaching as a TA at Temple University. <br>
+-**[Aug'25]** Started working as a Lecturer in the Department of Computer Science & Engineering at Dhaka Internationl University. <br>
+-**[Aug'25]** Our work on quantum-assisted secure audio communication was accepted in *Engineering Science and Technology, an International Journal*. <br>
+-**[Jun'25]**  Graduated from RUET as the first class ninth with honors!. <br>
 
 ---
 
