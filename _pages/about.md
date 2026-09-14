@@ -7,9 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-- I am a 4th year undergraduate student in the Computer Science and Engineering (CSE) department at RUET. 
-- My research interests lie in Quantum Cryptography, Large Language Model (LLM)
-- I'm from Sirajganj, Bangladesh and currently live in Rajshahi, Bangladesh.
+# Md. Mizanur Rahman
+
+Ph.D. Student, Temple University
+Department of Computer & Information Science
+Philadelphia, Pennsylvania, USA
+Email:md.mizanur.rahman@temple.edu
+
+## Recent News
+-**[Aug'26]** Started Ph.D. at Temple University.
+-**[Aug'26]** Started teaching as a TA at Temple University.
+-**[Aug'25]** Started working as a Lecturer in the Department of Computer Science & Engineering at Dhaka Internationl University.
+-**[Aug'25]** Our work on quantum-assisted secure audio communication was accepted in *Engineering Science and Technology, an International Journal*.
+-**[Jun'25]**  Graduated from RUET as the first class ninth with honors!.
+
+---
+
+## About Me
+I am a Ph.D. student in Computer & Information Science at
+[Temple University](https://www.temple.edu/), advised by
+[Prof. Yu Wang](https://cis.temple.edu/~yu/).
+
+My research interests lie primarily in **quantum networking,
+distributed quantum computing, and quantum communication**.
+I am particularly interested in resource allocation, qubit mapping,
+network-aware distributed quantum computation, entanglement
+distribution, and fidelity-aware optimization in quantum networks.
+
+Before joining Temple University, I worked as a Lecturer in the
+Department of Computer Science & Engineering at Dhaka International
+University. I received my B.Sc. degree in Computer Science &
+Engineering from Rajshahi University of Engineering & Technology
+(RUET).
+
+My previous research includes quantum-assisted secure communication,
+quantum cryptography, and multimodal large language models.
+
+---
+
+
+---
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
