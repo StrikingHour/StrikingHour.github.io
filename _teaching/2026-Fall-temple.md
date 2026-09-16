@@ -24,7 +24,7 @@ Heading 3
 title: "CIS 1057 — Programming in C"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2026-fall-cis2168
+permalink: /teaching/2026-Fall-temple
 venue: "Temple University, Department of Computer & Information Science"
 date: 2026-08-24
 location: "Philadelphia, PA, USA"

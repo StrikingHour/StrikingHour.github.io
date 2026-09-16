@@ -3,7 +3,7 @@
 title: "Lecturer, Department of Computer Science & Engineering"
 collection: teaching
 type: "Lecturer"
-permalink: /teaching/lecturer-diu
+permalink: /teaching/diu
 venue: "Dhaka International University"
 date: 2025-09-01
 location: "Dhaka, Bangladesh"
