@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
@@ -17,9 +17,7 @@ Heading 2
 ======
 
 Heading 3
-====== -->
-
-```markdown
+======
 ---
 title: "CIS 1057 — Programming in C"
 collection: teaching
