@@ -18,11 +18,11 @@ Courses taught included:
 - E-Commerce and Web Engineering
 - Information System Management
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

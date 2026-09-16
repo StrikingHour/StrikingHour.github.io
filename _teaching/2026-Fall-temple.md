@@ -32,7 +32,7 @@ Topics covered in the course included:
 - File handling
 - Basic problem solving using C
 
-
+<!-- 
 Heading 1
 ======
 
@@ -73,4 +73,4 @@ Topics covered in the course included:
 - Structures
 - File handling
 - Basic problem solving using C
-```
+``` -->
