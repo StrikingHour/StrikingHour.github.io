@@ -1,20 +1,23 @@
+```markdown
 ---
-title: "Teaching experience 2"
+title: "Lecturer, Department of Computer Science & Engineering"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecturer"
+permalink: /teaching/lecturer-diu
+venue: "Dhaka International University"
+date: 2025-09-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as a **Lecturer** in the Department of Computer Science & Engineering at **Dhaka International University** from **September 2025 to June 2026**.
 
-Heading 1
-======
+Courses taught included:
 
-Heading 2
-======
+- Parallel and Distributed Processing
+- Database Management Systems
+- Software Engineering
+- E-Commerce and Web Engineering
+- Information System Management
 
-Heading 3
-======
+My responsibilities included delivering lectures, conducting laboratory and tutorial sessions, preparing assignments and examinations, evaluating student performance, and providing academic guidance to undergraduate students.
+```
