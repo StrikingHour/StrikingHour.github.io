@@ -1,11 +1,10 @@
-```markdown
 ---
 title: "Lecturer, Department of Computer Science & Engineering"
 collection: teaching
 type: "Lecturer"
-permalink: /teaching/diu
+permalink: /teaching/2015-spring-teaching-1
 venue: "Dhaka International University"
-date: 2025-09-01
+date: 2015-09-01
 location: "Dhaka, Bangladesh"
 ---
 
@@ -19,5 +18,11 @@ Courses taught included:
 - E-Commerce and Web Engineering
 - Information System Management
 
-My responsibilities included delivering lectures, conducting laboratory and tutorial sessions, preparing assignments and examinations, evaluating student performance, and providing academic guidance to undergraduate students.
-```
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
