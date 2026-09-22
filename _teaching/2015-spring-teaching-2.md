@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecturer"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Dhaka International University"
-date: 2015-09-01
+date: 2025-09-01
 location: "Dhaka, Bangladesh"
 ---
 
